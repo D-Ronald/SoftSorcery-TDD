@@ -1,0 +1,15 @@
+public interface CalculadoraInterface{
+
+    public int soma();
+
+    public int subtração();
+
+    public int divisão();
+
+    public int multiplicacao();
+
+    public int potenciacao();
+    
+    public int raizQuadrada();
+    
+}
